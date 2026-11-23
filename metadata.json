@@ -1,0 +1,6 @@
+{
+  "name": "Sunlit Parlor: Mahjong & Rummy-O Memory",
+  "description": "A cheerful, senior-friendly memory matching game featuring classic Mahjong and Rummy-O tiles tuned for medium 50+ challenge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
